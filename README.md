@@ -1,5 +1,5 @@
 # Network System Design for School
-
+![Network Topology](dd_page-0001.jpg)
 ## Project Description
 This project focuses on designing and simulating a computer network system for a school environment using Cisco Packet Tracer.
 
